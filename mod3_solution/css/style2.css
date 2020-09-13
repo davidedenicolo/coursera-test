@@ -1,0 +1,96 @@
+#id{
+	background-color: white;
+}
+svg:hover{
+	cursor: pointer;
+   	color: white;
+   	border: 1px solid white;
+}
+
+#icon{
+	width: 28px;
+	height: 28px;
+	position: relative;
+	left: 37%;
+	color: black;
+}
+#title{
+	font-weight: bold;
+	margin-bottom: 5px;
+	font-size: 22px;
+}
+#section1{
+	margin-top: 50px;
+	height: 1000px;
+}
+p{
+	font-weight: 600;
+	padding-bottom: 10px;
+}
+div{
+	background-color: gray;
+}
+.navbar-brand{
+	font-weight: bold;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-family: sans-serif;
+}
+.navbar-light{
+	background-color: gray;
+}
+#main-content{
+	width: 90%;
+}
+nav{
+	border:2px solid black;
+}
+
+footer section span{
+	font-weight: bold;
+	font-size: 20px;
+}
+#second{
+	background-color: black;
+	margin-top: 15px;
+}
+
+
+
+@media (min-width: 769px){
+#mar{
+	margin: 6px;
+}
+.b{
+	visibility: hidden;
+}
+ul{
+	visibility: hidden;
+}
+}
+
+
+@media (max-width: 768px){
+#mar{
+	margin: 50px;
+}
+#a{
+	text-align: center;
+	border-bottom: 2px solid black;
+	border-left: 2px solid black;
+	border-right:  2px solid black;
+}
+#a1{
+	text-align: center;
+	border-left: 2px solid black;
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+}
+#section1{
+	margin-top: 50px;
+	width: 100%;
+}
+#second{
+	text-align: center;
+}
+}

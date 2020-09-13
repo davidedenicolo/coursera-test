@@ -1,0 +1,51 @@
+@media (max-width: 760px){
+.fas.fa-align-justify{
+	
+}
+
+}
+
+
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+	height: 50px;
+}
+#logo-img{
+	background: url('../css/logo-e-emblema-del-ristorante-cinese_1447-1486.jpg') no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0px;
+}
+.menu-option{
+	padding-left: 10px;
+	padding-top: -5px;
+	padding-bottom: 5px;
+	margin-left: 25%;
+	background-color: gray;
+	width: 50%;
+	color:black;
+	margin-top: 2%;
+}
+.navbar-light{
+	background-color: gray;
+	font-weight: bold;
+}
+#title{
+	font-weight: bold;
+	text-align: center;
+}
+
+#prova{
+	position: relative;
+	color: purple;
+}
+.navbar.navbar-default{
+	position: absolute;
+}
+h1{
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
